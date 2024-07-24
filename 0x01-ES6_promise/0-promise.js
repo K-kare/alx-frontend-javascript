@@ -1,3 +1,3 @@
 export function getResponseFromAPI() {
-return newpromise((resolve, reject));
+  return newpromise((resolve, reject));
 }
